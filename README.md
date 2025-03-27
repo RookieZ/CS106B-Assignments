@@ -7,5 +7,5 @@
 - 部分添加测试用例的要求没有完成
 - 一些简答题没有回答
 
-> assignment5 starter code下载需要权限，所以用2022 Winter Quarter的Bag'O Big-O替代
+> assignment5、assignment7、assignment9均为2022 Winter Quarter的作业
 [2022 Winter Quarter课程主页地址](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224)
